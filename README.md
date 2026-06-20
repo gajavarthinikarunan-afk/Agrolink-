@@ -4,7 +4,7 @@ Smart Seed Selling Assistance Platform
 
 Overview
 
-AgroLink is a multilingual web platform designed to support rural farmers by providing agricultural guidance and resources.
+AgroLink is a multilingual app platform designed to support rural farmers by providing agricultural guidance and resources.
 
 Features
 
