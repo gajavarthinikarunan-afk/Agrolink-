@@ -1,18 +1,28 @@
-# AgroLink
+AgroLink
 
-AgroLink is a smart farming assistance platform designed to help farmers manage agricultural activities efficiently.
+Smart Seed Selling Assistance Platform
 
-## Features
+Overview
 
-- Crop management
-- Farm monitoring
-- User-friendly dashboard
-- Data tracking and reporting
+AgroLink is a multilingual web platform designed to support rural farmers by providing agricultural guidance and resources.
 
-## Technologies Used
+Features
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+- Multilingual Support
+- Farming Information Portal
+- Audio Guidance System
+- User-Friendly Interface
+- Mobile Responsive Design
+
+ Technologies
+- React
+- Tailwind CSS
+
+Target Users
+
+- Farmers
+- Agricultural Communities
+- Rural Users
+
+Author
+Gajavarthii Karunan Bachelor of Computer Science (Cybersecurity) AIMST University  
